@@ -40,3 +40,4 @@ def teste_args_kwargs(*args, **kwargs):
 
 teste_args_kwargs(*(1,2,3), nome = 'janja', idade = 50 )
 teste_args_kwargs(1, 2, 3, **dados_completos)
+

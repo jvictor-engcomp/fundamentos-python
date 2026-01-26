@@ -1,0 +1,23 @@
+{
+    "nome": "Jo\u00e3o Victor",
+    "idade": 19,
+    "endereco": [
+        {
+            "rua": "rua da amargura",
+            "numero": "100"
+        },
+        {
+            "rua": "rua da lamasal",
+            "numero": "190"
+        }
+    ],
+    "altura": 1.7,
+    "numeros_preferidos": [
+        2,
+        4,
+        6,
+        8,
+        10
+    ],
+    "nada": null
+}
